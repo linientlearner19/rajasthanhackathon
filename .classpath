@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Java Softwares/jnativehook-2.0.3.jar"/>
+	<classpathentry kind="lib" path="F:/Java Softwares/jstl-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Java Softwares/fmj-20070928-0938/fmj.jar"/>
+	<classpathentry kind="lib" path="F:/Java Softwares/JMF-2.1.1e/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="F:/Java Softwares/JMF-2.1.1e/lib/mediaplayer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
